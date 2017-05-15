@@ -1,0 +1,9 @@
+#nv_forum {  }
+#nv li a:hover { background: rgb(150, 150, 150); }
+#nv li.a { background: rgb(200, 200, 200); }
+#nv li { background: rgb(200, 200, 200); }
+#mn_forum { background: rgb(200, 200, 200); }
+
+#nv { height: 33px; background: rgb(200, 200, 200); }
+#wp { } //在线人数
+#online { }
